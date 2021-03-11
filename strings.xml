@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DistiinceApp</string>
+    <string name="app_logo">app_logo</string>
+    <string name="welcome_text">Welcome to the DistiinceApp</string>
+    <string name="welcome_next">Next</string>
+    <string name="title_activity_active_users">Active Users</string>
+    <string name="au_text">The App has paused detecting other nearby active user devices</string>
+    <string name="resume_detect">Resume Detect</string>
+    <string name="pause_detect">"Pause Detect"</string>
+    <string name="title_activity_settings_page">Settings</string>
+    <string name="Sound_TooClose">Sound For Too Close</string>
+    <string name="Vibrate_TooClose">Vibrate For Too Close</string>
+    <string name="Sound_Warning">Sound For Warning</string>
+    <string name="Vibrate_Warning">Vibrate For Warning</string>
+    <string name="detect_other_devices">Detect Other Devices</string>
+    <string name="app_notification">App Notifications</string>
+    <string name="general_settings">General Settings</string>
+    <string name="man">man</string>
+<!--    strings for too close-->
+    <string name="Vibrate_on_tc">Vibration On</string>
+    <string name="Vibrate_off_tc">Vibration Off</string>
+    <string name="Sound_on_tc">Sound On</string>
+    <string name="Sound_off_tc">Sound Off</string>
+<!--    strings for warning-->
+    <string name="Vibrate_on_warn">Vibration On</string>
+    <string name="Vibrate_off_warn">Vibration Off</string>
+    <string name="Sound_on_warn">Sound On</string>
+    <string name="Sound_off_warn">Sound Off</string>
+    <string name="notification_on">Notification On</string>
+    <string name="notification_off">Notification Off</string>
+    <string name="detect_list">Detect List</string>
+</resources>
